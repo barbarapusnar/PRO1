@@ -1,0 +1,8 @@
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\bin\Debug\KontrolaDostopa.exe.config
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\bin\Debug\KontrolaDostopa.exe
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\bin\Debug\KontrolaDostopa.pdb
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\obj\Debug\KontrolaDostopa.csproj.AssemblyReference.cache
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\obj\Debug\KontrolaDostopa.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\obj\Debug\KontrolaDostopa.csproj.CoreCompileInputs.cache
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\obj\Debug\KontrolaDostopa.exe
+D:\PRO1\KontrolaDostopa\KontrolaDostopa\obj\Debug\KontrolaDostopa.pdb

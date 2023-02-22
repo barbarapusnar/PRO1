@@ -1,0 +1,8 @@
+D:\PRO1\Razredi\Razredi\bin\Debug\Razredi.exe.config
+D:\PRO1\Razredi\Razredi\bin\Debug\Razredi.exe
+D:\PRO1\Razredi\Razredi\bin\Debug\Razredi.pdb
+D:\PRO1\Razredi\Razredi\obj\Debug\Razredi.csproj.AssemblyReference.cache
+D:\PRO1\Razredi\Razredi\obj\Debug\Razredi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Razredi\Razredi\obj\Debug\Razredi.csproj.CoreCompileInputs.cache
+D:\PRO1\Razredi\Razredi\obj\Debug\Razredi.exe
+D:\PRO1\Razredi\Razredi\obj\Debug\Razredi.pdb

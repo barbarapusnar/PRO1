@@ -1,0 +1,8 @@
+D:\PRO1\VajaLahka\VajaLahka\bin\Debug\VajaLahka.exe.config
+D:\PRO1\VajaLahka\VajaLahka\bin\Debug\VajaLahka.exe
+D:\PRO1\VajaLahka\VajaLahka\bin\Debug\VajaLahka.pdb
+D:\PRO1\VajaLahka\VajaLahka\obj\Debug\VajaLahka.csproj.AssemblyReference.cache
+D:\PRO1\VajaLahka\VajaLahka\obj\Debug\VajaLahka.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaLahka\VajaLahka\obj\Debug\VajaLahka.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaLahka\VajaLahka\obj\Debug\VajaLahka.exe
+D:\PRO1\VajaLahka\VajaLahka\obj\Debug\VajaLahka.pdb

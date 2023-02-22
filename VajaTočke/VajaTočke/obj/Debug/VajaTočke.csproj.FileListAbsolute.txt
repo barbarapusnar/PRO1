@@ -1,0 +1,8 @@
+D:\PRO1\VajaTočke\VajaTočke\bin\Debug\VajaTočke.exe.config
+D:\PRO1\VajaTočke\VajaTočke\bin\Debug\VajaTočke.exe
+D:\PRO1\VajaTočke\VajaTočke\bin\Debug\VajaTočke.pdb
+D:\PRO1\VajaTočke\VajaTočke\obj\Debug\VajaTočke.csproj.AssemblyReference.cache
+D:\PRO1\VajaTočke\VajaTočke\obj\Debug\VajaTočke.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VajaTočke\VajaTočke\obj\Debug\VajaTočke.csproj.CoreCompileInputs.cache
+D:\PRO1\VajaTočke\VajaTočke\obj\Debug\VajaTočke.exe
+D:\PRO1\VajaTočke\VajaTočke\obj\Debug\VajaTočke.pdb

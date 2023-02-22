@@ -1,0 +1,8 @@
+D:\PRO1\PrvaIgra\PrvaIgra\bin\Debug\PrvaIgra.exe.config
+D:\PRO1\PrvaIgra\PrvaIgra\bin\Debug\PrvaIgra.exe
+D:\PRO1\PrvaIgra\PrvaIgra\bin\Debug\PrvaIgra.pdb
+D:\PRO1\PrvaIgra\PrvaIgra\obj\Debug\PrvaIgra.csproj.AssemblyReference.cache
+D:\PRO1\PrvaIgra\PrvaIgra\obj\Debug\PrvaIgra.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\PrvaIgra\PrvaIgra\obj\Debug\PrvaIgra.csproj.CoreCompileInputs.cache
+D:\PRO1\PrvaIgra\PrvaIgra\obj\Debug\PrvaIgra.exe
+D:\PRO1\PrvaIgra\PrvaIgra\obj\Debug\PrvaIgra.pdb
