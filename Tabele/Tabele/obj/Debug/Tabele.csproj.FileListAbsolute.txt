@@ -1,0 +1,8 @@
+D:\PRO1\Tabele\Tabele\bin\Debug\Tabele.exe.config
+D:\PRO1\Tabele\Tabele\bin\Debug\Tabele.exe
+D:\PRO1\Tabele\Tabele\bin\Debug\Tabele.pdb
+D:\PRO1\Tabele\Tabele\obj\Debug\Tabele.csproj.AssemblyReference.cache
+D:\PRO1\Tabele\Tabele\obj\Debug\Tabele.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Tabele\Tabele\obj\Debug\Tabele.csproj.CoreCompileInputs.cache
+D:\PRO1\Tabele\Tabele\obj\Debug\Tabele.exe
+D:\PRO1\Tabele\Tabele\obj\Debug\Tabele.pdb

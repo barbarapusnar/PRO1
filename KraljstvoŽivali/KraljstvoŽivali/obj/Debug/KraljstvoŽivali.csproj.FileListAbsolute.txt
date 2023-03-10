@@ -1,0 +1,8 @@
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\bin\Debug\KraljstvoŽivali.exe.config
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\bin\Debug\KraljstvoŽivali.exe
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\bin\Debug\KraljstvoŽivali.pdb
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\obj\Debug\KraljstvoŽivali.csproj.AssemblyReference.cache
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\obj\Debug\KraljstvoŽivali.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\obj\Debug\KraljstvoŽivali.csproj.CoreCompileInputs.cache
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\obj\Debug\KraljstvoŽivali.exe
+D:\PRO1\KraljstvoŽivali\KraljstvoŽivali\obj\Debug\KraljstvoŽivali.pdb

@@ -1,0 +1,8 @@
+D:\PRO1\Tabele2D\Tabele2D\bin\Debug\Tabele2D.exe.config
+D:\PRO1\Tabele2D\Tabele2D\bin\Debug\Tabele2D.exe
+D:\PRO1\Tabele2D\Tabele2D\bin\Debug\Tabele2D.pdb
+D:\PRO1\Tabele2D\Tabele2D\obj\Debug\Tabele2D.csproj.AssemblyReference.cache
+D:\PRO1\Tabele2D\Tabele2D\obj\Debug\Tabele2D.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Tabele2D\Tabele2D\obj\Debug\Tabele2D.csproj.CoreCompileInputs.cache
+D:\PRO1\Tabele2D\Tabele2D\obj\Debug\Tabele2D.exe
+D:\PRO1\Tabele2D\Tabele2D\obj\Debug\Tabele2D.pdb

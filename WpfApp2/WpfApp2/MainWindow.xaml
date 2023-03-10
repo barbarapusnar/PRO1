@@ -1,0 +1,52 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:nakupKarte="clr-namespace:WpfApp2"
+        Title="Nakup vstopnic" Height="331" Width="570">
+    
+    <Window.Resources>
+        <nakupKarte:NakupKarte x:Key="nakupPodatki"/>
+        <Style x:Key="napakaStil" TargetType="Control">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip" Value="{Binding RelativeSource={x:Static RelativeSource.Self},Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Label Content="Dogodek" HorizontalAlignment="Left" Margin="50,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Številka kupca" HorizontalAlignment="Left" Margin="50,150,0,0" VerticalAlignment="Top"/>
+        <Label Content="Status" HorizontalAlignment="Left" Margin="50,200,0,0" VerticalAlignment="Top"/>
+        <Label Content="Karte" HorizontalAlignment="Left" Margin="50,250,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="listaDogodkov" HorizontalAlignment="Left" Margin="180,100,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="koncert"/>
+            <ComboBoxItem Content="gledališče"/>
+            <ComboBoxItem Content="opera"/>
+            <ComboBoxItem Content="balet"/>
+        </ComboBox>
+        <TextBox Style="{StaticResource napakaStil}" Name="štKupca" HorizontalAlignment="Left" Margin="180,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120">
+            <TextBox.Text>
+                <Binding Source ="{StaticResource nakupPodatki}" Path="ŠtKupca" ValidatesOnExceptions="True" />
+            </TextBox.Text>
+        </TextBox>
+        <ComboBox Name="status" HorizontalAlignment="Left" Margin="180,200,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="standard"/>
+            <ComboBoxItem Content="premium"/>
+            <ComboBoxItem Content="extra"/>
+            <ComboBoxItem Content="premium extra"/>
+        </ComboBox>
+        <Menu Margin="0,0,0,252">
+            <MenuItem Header="Datoteka" Height="41" Width="82">
+                <MenuItem Header="Kupi" Click="MenuItem_Click"/>
+                <MenuItem Header="Izhod" Click="MenuItem_Click_1"/>
+            </MenuItem>
+        </Menu>
+        <Slider Name="štKart" HorizontalAlignment="Left" Margin="180,250,0,0" VerticalAlignment="Top" Width="120" SmallChange="1" IsSnapToTickEnabled="True" TickPlacement="BottomRight"/>
+        <TextBox HorizontalAlignment="Left" Margin="320,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" TextAlignment="Center" Text="{Binding Value, ElementName=štKart}"/>
+    </Grid>
+</Window>

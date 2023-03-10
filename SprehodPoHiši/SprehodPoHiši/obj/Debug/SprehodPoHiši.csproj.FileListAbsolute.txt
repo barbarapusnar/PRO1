@@ -1,0 +1,8 @@
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\bin\Debug\SprehodPoHiši.exe.config
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\bin\Debug\SprehodPoHiši.exe
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\bin\Debug\SprehodPoHiši.pdb
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\obj\Debug\SprehodPoHiši.csproj.AssemblyReference.cache
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\obj\Debug\SprehodPoHiši.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\obj\Debug\SprehodPoHiši.csproj.CoreCompileInputs.cache
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\obj\Debug\SprehodPoHiši.exe
+D:\PRO1\SprehodPoHiši\SprehodPoHiši\obj\Debug\SprehodPoHiši.pdb

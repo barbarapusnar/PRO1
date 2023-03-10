@@ -1,0 +1,8 @@
+D:\PRO1\VozniPark\VozniPark\bin\Debug\VozniPark.exe.config
+D:\PRO1\VozniPark\VozniPark\bin\Debug\VozniPark.exe
+D:\PRO1\VozniPark\VozniPark\bin\Debug\VozniPark.pdb
+D:\PRO1\VozniPark\VozniPark\obj\Debug\VozniPark.csproj.AssemblyReference.cache
+D:\PRO1\VozniPark\VozniPark\obj\Debug\VozniPark.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\VozniPark\VozniPark\obj\Debug\VozniPark.csproj.CoreCompileInputs.cache
+D:\PRO1\VozniPark\VozniPark\obj\Debug\VozniPark.exe
+D:\PRO1\VozniPark\VozniPark\obj\Debug\VozniPark.pdb

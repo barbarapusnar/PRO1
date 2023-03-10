@@ -1,0 +1,11 @@
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\bin\Debug\EnostavenKalkulator.exe.config
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\bin\Debug\EnostavenKalkulator.exe
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\bin\Debug\EnostavenKalkulator.pdb
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.csproj.AssemblyReference.cache
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.Form1.resources
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.Properties.Resources.resources
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.csproj.GenerateResource.cache
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.csproj.CoreCompileInputs.cache
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.exe
+D:\PRO1\EnostavenKalkulator\EnostavenKalkulator\obj\Debug\EnostavenKalkulator.pdb

@@ -1,0 +1,11 @@
+D:\PRO1\Prva aplikacija\Prva aplikacija\bin\Debug\Prva aplikacija.exe.config
+D:\PRO1\Prva aplikacija\Prva aplikacija\bin\Debug\Prva aplikacija.exe
+D:\PRO1\Prva aplikacija\Prva aplikacija\bin\Debug\Prva aplikacija.pdb
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva aplikacija.csproj.AssemblyReference.cache
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva aplikacija.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva_aplikacija.Form1.resources
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva_aplikacija.Properties.Resources.resources
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva aplikacija.csproj.GenerateResource.cache
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva aplikacija.csproj.CoreCompileInputs.cache
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva aplikacija.exe
+D:\PRO1\Prva aplikacija\Prva aplikacija\obj\Debug\Prva aplikacija.pdb

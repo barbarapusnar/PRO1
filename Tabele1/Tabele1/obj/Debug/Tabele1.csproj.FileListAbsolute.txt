@@ -1,0 +1,8 @@
+D:\PRO1\Tabele1\Tabele1\bin\Debug\Tabele1.exe.config
+D:\PRO1\Tabele1\Tabele1\bin\Debug\Tabele1.exe
+D:\PRO1\Tabele1\Tabele1\bin\Debug\Tabele1.pdb
+D:\PRO1\Tabele1\Tabele1\obj\Debug\Tabele1.csproj.AssemblyReference.cache
+D:\PRO1\Tabele1\Tabele1\obj\Debug\Tabele1.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Tabele1\Tabele1\obj\Debug\Tabele1.csproj.CoreCompileInputs.cache
+D:\PRO1\Tabele1\Tabele1\obj\Debug\Tabele1.exe
+D:\PRO1\Tabele1\Tabele1\obj\Debug\Tabele1.pdb
