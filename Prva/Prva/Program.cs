@@ -10,7 +10,7 @@ namespace Prva
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Rad imam C#");
+            Console.WriteLine("Rad imam C++");
         }
     }
 }
