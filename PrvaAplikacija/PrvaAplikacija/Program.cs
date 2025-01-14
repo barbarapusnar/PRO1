@@ -11,6 +11,7 @@ namespace PrvaAplikacija
         static void Main(string[] args)
         {
             Console.WriteLine("Prvi poskus");
+            //to je test
         }
     }
 }
