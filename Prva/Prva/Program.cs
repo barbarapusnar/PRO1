@@ -12,6 +12,7 @@ namespace Prva
         {
             Console.WriteLine("Rad imam C++");
             //test1
+            //test2
         }
     }
 }
