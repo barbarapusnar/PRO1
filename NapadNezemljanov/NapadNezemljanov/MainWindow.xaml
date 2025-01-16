@@ -1,0 +1,45 @@
+﻿<Window x:Class="NapadNezemljanov.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NapadNezemljanov"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="582" Width="800">
+    <Window.Resources>
+        <ControlTemplate x:Key="Predloga" TargetType="{x:Type ContentControl}">
+            <Grid>
+                <Ellipse HorizontalAlignment="Center" Height="83" Stroke="Black" VerticalAlignment="Center" Width="100" Fill="Red"/>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="47,19,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="btnStart" Content="Start" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Width="80"/>
+        <ProgressBar Grid.Column="1" Grid.Row="2" Height="20"/>
+        <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2">
+            <TextBlock TextWrapping="Wrap" Text="TextBlock"/>
+            <ContentControl Template="{DynamicResource Predloga}" Content="ContentControl" Height="83"/>
+        </StackPanel>
+        <Canvas x:Name="igralniDel" Grid.Row="1" Grid.ColumnSpan="3">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD1EFBC" Offset="0.007"/>
+                    <GradientStop Color="#FF72CE30" Offset="1"/>
+                    <GradientStop Color="#FF353E2F" Offset="0.53"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+        </Canvas>
+
+    </Grid>
+</Window>
